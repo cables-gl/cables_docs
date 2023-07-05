@@ -18,8 +18,6 @@ This will also create a checkbox which can be clicked<br>
 // Create a input port of the type Boolean
 const inBoolean = op.inBool("Boolean in");
 
-//Create a output port of the type value
-const outBoolean = op.outBoolNum("Boolean out");
 // Create a output port of the type value
 const outBoolean = op.outBool("Boolean out");
 
