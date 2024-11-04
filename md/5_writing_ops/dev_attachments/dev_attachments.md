@@ -28,13 +28,15 @@ You can edit the attachment file by clicking on the edit button
 
 This will open the editor allowing you to add your own script
 
-![hello_world_img](img/hello_world_attachment.png)
+![image](https://github.com/user-attachments/assets/58ad80cc-3254-495b-9347-93bb901cd320)
 
 
 
 The attachment can now be accessed inside of your op, select the op and press 'e' to enter edit mode.
 
- ![read_attachment_img](img/read_attachment.png)
+![image](https://github.com/user-attachments/assets/2d3cffe3-f95b-42ab-aad8-1e795e28ffd8)
+
+
 
 <br/>
 
